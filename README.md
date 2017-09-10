@@ -1,2 +1,1 @@
-# stanford_machine_learning
-Documentation of my machine learning course from Stanford University
+Documentation of my online machine learning course from Stanford University 
