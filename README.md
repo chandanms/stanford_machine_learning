@@ -1,1 +1,1 @@
-Documentation of my online machine learning course from Stanford University 
+The repository consists of the assignment problems solved using Octave. 
